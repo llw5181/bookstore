@@ -1,2 +1,2 @@
 # bookstore
-小梁书屋项目，前端用的是jsp和jq，后端用的原生servlet开发的JavaWeb项目
+前端用jsp和jq，后端用原生servlet开发的JavaWeb项目
